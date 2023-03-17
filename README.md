@@ -39,6 +39,5 @@
 <img alt="js" src="https://img.shields.io/badge/-FIGMA-212121?style=flat-square&logo=figma&logoColor=A764FF" />
 <img alt="js" src="https://img.shields.io/badge/-PHOTOSHOP-212121?style=flat-square&logo=adobephotoshop&logoColor=1793D1" />
 <img alt="js" src="https://img.shields.io/badge/-ILLUSTRATOR-212121?style=flat-square&logo=adobeillustrator&logoColor=E34F26" />
-<img alt="js" src="https://img.shields.io/badge/-ILLUSTRATOR-212121?style=flat-square&logo=adobeillustrator&logoColor=E34F26" />
 </p>
 <br><br>
